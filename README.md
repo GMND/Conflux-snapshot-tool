@@ -27,6 +27,12 @@ bash download.sh
 wget https://conflux-blockchain-data.oss-cn-beijing.aliyuncs.com/fullnode-db/M/download.sh      
 ```
 ```
+wget https://conflux-blockchain-data-us.s3.us-west-1.amazonaws.com/fullnode-db/M/download.sh
+```
+```
+wget https://conflux-blockchain-data-eu.s3.eu-central-1.amazonaws.com/fullnode-db/M/download.sh
+```
+```
 bash download.sh  
 ```
 
@@ -35,12 +41,38 @@ bash download.sh
 wget https://conflux-blockchain-data.oss-cn-beijing.aliyuncs.com/archivenode-db/T/download.sh  
 ```
 ```
+wget https://conflux-blockchain-data-us.s3.us-west-1.amazonaws.com/archivenode-db/T/download.bat    
+```
+```
+wget https://conflux-blockchain-data-eu.s3.eu-central-1.amazonaws.com/archivenode-db/T/download.bat    
+```
+```
 bash download.sh  
 ```
 
-- Windows - Mainnet：  
+- Windows - Mainnet - archive node：  
 ```
 wget https://conflux-blockchain-data.oss-cn-beijing.aliyuncs.com/archivenode-db/M/download.bat    
+```
+```
+wget https://conflux-blockchain-data-us.s3.us-west-1.amazonaws.com/archivenode-db/M/download.bat    
+```
+```
+wget https://conflux-blockchain-data-eu.s3.eu-central-1.amazonaws.com/archivenode-db/M/download.bat    
+```
+```
+download.bat  
+```
+
+- Windows - Mainnet - full node：  
+```
+wget https://conflux-blockchain-data.oss-cn-beijing.aliyuncs.com/fullnode-db/M/download.bat    
+```
+```
+wget https://conflux-blockchain-data-us.s3.us-west-1.amazonaws.com/fullnode-db/M/download.bat    
+```
+```
+wget https://conflux-blockchain-data-eu.s3.eu-central-1.amazonaws.com/fullnode-db/M/download.bat    
 ```
 ```
 download.bat  
@@ -49,6 +81,12 @@ download.bat
 - Windows - Testnet：  
 ```
 wget https://conflux-blockchain-data.oss-cn-beijing.aliyuncs.com/archivenode-db/T/download.bat  
+```
+```
+wget https://conflux-blockchain-data-us.s3.us-west-1.amazonaws.com/archivenode-db/T/download.bat  
+```
+```
+wget https://conflux-blockchain-data-eu.s3.eu-central-1.amazonaws.com/archivenode-db/T/download.bat  
 ```
 ```
 download.bat  
